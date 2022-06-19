@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.248dff31.css","mappings":"AAAA,EACE,qBAAsB,CACtB,qCACF,CAEA,KACE,qBAAuB,CACvB,UAAY,CACZ,WACF","sources":["global.css"],"sourcesContent":["*{ \n  box-sizing: border-box;\n  font-family: 'League Spartan', sans-serif;\n}\n\nbody{\n  background-color: black;\n  color: white;\n  padding: 2em;\n}\n"],"names":[],"sourceRoot":""}
